@@ -1,0 +1,11 @@
+C:\Users\Salih\Desktop\Proje2\Proje2\bin\Debug\Proje2.exe.config
+C:\Users\Salih\Desktop\Proje2\Proje2\bin\Debug\Proje2.exe
+C:\Users\Salih\Desktop\Proje2\Proje2\bin\Debug\Proje2.pdb
+C:\Users\Salih\Desktop\Proje2\Proje2\obj\Debug\Proje2.csprojAssemblyReference.cache
+C:\Users\Salih\Desktop\Proje2\Proje2\obj\Debug\Proje2.Properties.Resources.resources
+C:\Users\Salih\Desktop\Proje2\Proje2\obj\Debug\Proje2.csproj.GenerateResource.cache
+C:\Users\Salih\Desktop\Proje2\Proje2\obj\Debug\Proje2.csproj.CoreCompileInputs.cache
+C:\Users\Salih\Desktop\Proje2\Proje2\obj\Debug\Proje2.exe
+C:\Users\Salih\Desktop\Proje2\Proje2\obj\Debug\Proje2.pdb
+C:\Users\Salih\Desktop\Proje2\Proje2\obj\Debug\Proje2.Form1.resources
+C:\Users\Salih\Desktop\Proje2\Proje2\obj\Debug\Proje2.My2DPie.resources
